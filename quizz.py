@@ -1,6 +1,6 @@
 # ============================================
 # Python Quiz Application
-# Built by: YOUR NAME
+# Built by: Kush
 # ============================================
 
 # --- QUESTIONS DATABASE ---
